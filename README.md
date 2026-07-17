@@ -142,5 +142,5 @@ Just open `index.html` in a browser. No server required.
 
 ---
 
-## Develper
+## Developer
 - Yash Raj
